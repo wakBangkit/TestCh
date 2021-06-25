@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Chilly Show</string>
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="description">Description</string>
+    <string name="user_score">Audience\nRating</string>
+    <string name="lorem_ipsum" translatable="false">lorem ipsum dolor sit amet gitulah kurang lebih browww oke oke oke gitu lah ya gan ya ok oke oke oke gitu lah ya gan ya ok oke oke oke gitu lah ya gan ya ok oke oke oke gitu lah ya gan ya okoke oke oke gitu lah ya gan ya ok oke oke oke gitu lah ya gan ya ok oke oke oke gitu lah ya gan ya ok oke oke oke gitu lah ya gan ya ok panjang banget ini teks mau nyoba scroll view dulu. adapun dalam pembuatan aplikasi ini, saya mengetik mirip laporan resmi praktikum yang panjangnya sejauh hatiku ke hatimu itu lah.</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorite_movies_and_tv"><![CDATA[Favorite Movies & TV Shows]]></string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="tv_show_detail">TV Show Detail</string>
+    <string name="error_message">Something Is Error</string>
+    <string name="title_favorite" translatable="false">Favorite</string>
+</resources>
